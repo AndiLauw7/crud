@@ -5,7 +5,8 @@
             }
             
             body {
-                background-color: rgb(255, 255, 255);
+                /* background-color: rgb(255, 255, 255); */
+                background-color: rgb(255, 13, 13);
             }
             
             nav {
@@ -138,7 +139,7 @@
             }
             
             @media screen and(max-width: 600px) {
-                * {
-                    background-color: rgb(255, 13, 13);
+                body {
+                    background-color: rgb(243, 242, 242);
                 }
             }
